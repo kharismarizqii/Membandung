@@ -1,0 +1,534 @@
+<resources>
+    <string name="app_name">Membandung</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="data_nama_wisata">
+        <item>Farmhouse Lembang</item>
+        <item>Trans Studio Bandung</item>
+        <item>Glamping Lakeside Rancabali</item>
+        <item>Pine Forest</item>
+        <item>Lereng Anteng Panoramic Coffee</item>
+        <item>Dusun Bambu</item>
+        <item>Bumi Perkemahan Ranca Upas</item>
+        <item>Floating Market</item>
+        <item>Saung Angklung Udjo</item>
+        <item>Alun-Alun Bandung</item>
+    </string-array>
+
+    <string-array name="data_alamat_wisata">
+        <item>Jl. Raya Lembang No.108, Gudangkahuripan, Lembang, Bandung Barat</item>
+        <item>Jl. Gatot Subroto No.289, Cibangkong, Kec. Batununggal, Kota Bandung, Jawa Barat 40273</item>
+        <item>Jalan Raya Ciwidey – Patengan No.Km. 39, Situ, Patengan, Kec. Rancabali, Bandung</item>
+        <item>Suntenjaya, Lembang, Bandung</item>
+        <item>Kampung Pagermaneuh, RT. 03/07, Pagerwangi, Lembang, Kabupaten Bandung</item>
+        <item>Jl. Kolonel Masturi No.KM, Kertawangi, Kec. Cisarua, Kabupaten Bandung Barat</item>
+        <item>Jl. Raya Ciwidey – Patengan No.KM. 11, Patengan, Kec. Rancabali, Bandung</item>
+        <item>Jl. Grand Hotel No.33E, Lembang, Kabupaten Bandung Barat</item>
+        <item>Jl. Padasuka no 118, Kota Bandung</item>
+        <item>Jl. Asia Afrika, Balonggede, Regol, Bandung</item>
+    </string-array>
+
+    <string-array name="data_rating_wisata">
+        <item>4,4</item>
+        <item>4,5</item>
+        <item>4,4</item>
+        <item>4,2</item>
+        <item>4,3</item>
+        <item>4,5</item>
+        <item>4,5</item>
+        <item>4,5</item>
+        <item>4,6</item>
+        <item>4,5</item>
+    </string-array>
+
+    <string-array name="data_desc_wisata">
+        <item>Salah satu tempat wisata Bandung yang hits sejak dulu adalah Farmhouse Lembang. Selain memiliki banyak spot foto yang instagramable untuk kamera-mu, di Farmhouse Lembang kamu juga bisa berinteraksi dengan berbagai hewan ternak lucu, menikmati taman bunga, dan miniatur kota bergaya Eropa.</item>
+        <item>"Jika pergi bersama anak-anak dan ingin mencari pengalaman bermain yang lengkap dan menyenangkan, Trans Studio Bandung bisa jadi pilihan kamu.
+
+Terdapat banyak wahana yang seru baik untuk si kecil juga orang tua yang mendampingi.
+
+Permainan yang ada di taman hiburan ini juga sangat beragam, mulai dari petualangan di wahana “Jelajah” dan “Negeri Raksasa”, bioskop Marvel Superheroes 4D, sampai Yamaha Racing Coaster dan wahana Vertigo yang dapat memacu adrenalin kamu. "</item>
+        <item>"Bagi kamu yang ingin keluar dari ingar bingar kota dan lebih suka menikmati alam indah Bandung, berkemah di Glamping Lakeside Rancabali merupakan alternatif liburan yang sangat menyenangkan dan dapat memberi pengalaman baru untukmu.
+
+Berbeda dengan camping normal yang biasanya tidak “cantik”, di Glamping Lakeside kamu akan melakukan aktivitas glamping yang menyatu dengan alam tetapi tetap nyaman dan bersih.
+
+Untuk berkemah, tersedia tenda atau resort yang bisa dipilih tergantung keinginan dan kebutuhanmu saja.
+
+Tak hanya untuk glamping, jika kamu tidak ingin menginap tetap terdapat banyak wahana yang bisa dinikmati seperti mengitari danau dengan perahu, menikmati pemandangan dan berfoto-foto di Teras Bintang, dan bermain seluncuran di Golesat Circuit. "</item>
+        <item>"Di Pine Forest Camp, kamu bisa mengikuti “Adventure Family Camping” bersama keluarga untuk menikmati alam dengan cara berbeda dan mempererat hubungan antar anggota keluarga.
+
+Perbedaan tempat berkemah satu ini dengan yang lain adalah wilayah ini dikelilingi hutan pohon pinus yang menambah keasrian dan keindahan tempat ini.
+
+Jika pergi ke sini bersama keluarga, tidak perlu repot-repot karena pihak perkemahan sudah menyediakan peralatan dan fasilitas yang dibutuhkan."</item>
+        <item>"Setelah lelah mengelilingi kota Bandung, beristirahat di kafe-kafe unik yang tersebar di seluruh kota merupakan pilihan pas.
+
+Salah satu kafe yang wajib kamu kunjungi adalah Lereng Anteng Panoramic Coffee. Kafe yang terletak di sebuah bukit di Lembang ini menawarkan suasana yang nyaman, ditambah dekorasi yang sangat instagramable, dan pemandangan kota Bandung dari atas.
+
+Konsep tempatnya juga unik, dibuat seperti terasering sawah dan setiap mejanya dilengkapi dengan tenda yang sangat lucu untuk berfoto sekaligus melindungi kamu jika tiba-tiba hujan turun.
+
+Selain itu, kamu juga bisa bermain mini golf yang tersedia di wilayah Lereng Anteng Panoramic Coffee ini, lho. "</item>
+        <item>"Di Dusun Bambu, kamu bisa menikmati pengalaman menginap yang sangat nyaman dan asri, dengan desain bangunan yang mencampurkan alam dengan modernitas.
+
+Terdapat dua jenis penginapan: kamar biasa atau dalam tenda untuk glamping. Namun, jika tidak ingin menginap pun terdapat kafe atau restoran seperti saungnya yang menawarkan pengalaman makan unik di saung yang mengelilingi danau.
+
+Dusun Bambu juga bisa digunakan untuk berbagai macam acara, lho. Jadi, jika kamu ingin berlibur bersama keluarga besar dan mengadakan semacam gathering, Dusun Bambu bisa jadi pilihan tempat yang menarik. "</item>
+        <item>"Jika kamu ingin pergi berkemah dan menikmati berbagai macam fasilitas yang menyenangkan untuk keluarga, Ranca Upas merupakan pilihan yang sangat tepat.
+
+Di bumi perkemahan Ranca Upas, terdapat fasilitas yang membuat pengalaman berkemah di sini semakin menyenangkan seperti pemandian air panas, Waterboom Ciwidey, dan berbagai macam permainan outdoor.
+
+Keunikan tempat ini berada di dua hal: rumah pohon yang bisa dijadikan tempat bermain dan penangkaran rusa yang membuat kunjunganmu ke tempat ini semakin menyenangkan dan berbeda dari wisata atau perkemahan ke tempat lain.
+
+Kamu bisa berfoto dan memberi makan langsung rusa-rusa yang ada di sana lho, Toppers.
+
+Untuk berkemah, tenang saja karena pihak bumi perkemahan ranca upas sudah menyediakan fasilitas seperti sewa tenda, sleeping bag, kayu untuk api unggun, dan bahkan sound system jika kamu mengadakan acara. "</item>
+        <item>"Salah satu tempat liburan di Bandung yang wajib dikunjungi adalah Floating Market Lembang.
+
+Di sini, Toppers bisa menikmati kawasan tertata rapi yang dilengkapi berbagai wahana permainan, kuliner yang dijual di atas perahu, dan berbagai spot untuk membidik lensa kamera-mu seperti wahana kota mini dan taman bunga."</item>
+        <item>"Ingin mengenal lebih dalam budaya tradisional Sunda? Tempat wisata Saung Angklung Udjo bisa jadi pilihan liburan-mu.
+
+Nggak cuma bisa melihat berbagai obyek kebudayaan Sunda, Toppers juga bisa berinteraksi langsung dengan belajar angklung dan tari-tarian Sunda, lho!"</item>
+        <item>"Berada di pusat kota Bandung, Masjid Raya Bandung merupakan masjid bersejarah kebanggaan kota Bandung.
+
+Untuk mengunjungi Masjid ini Toppers tak akan dikenakan biaya. Hanya saja, untuk bisa menaiki menara masjid yang menjadi daya tarik objek wisata Bandung satu ini, kamu akan dikenakan biaya Rp 7.000 untuk dewasa dan Rp 5.000 untuk anak-anak."</item>
+    </string-array>
+
+    <string-array name="data_photo_wisata">
+        <item>https://ecs7.tokopedia.net/blog-tokopedia-com/uploads/2019/11/farmhouse-lembang.jpg</item>
+        <item>https://ecs7.tokopedia.net/blog-tokopedia-com/uploads/2019/11/Trans-Studio-Bandung.jpg</item>
+        <item>https://ecs7.tokopedia.net/blog-tokopedia-com/uploads/2019/11/Glamping-Lakeside-Rancabali-Bandung.jpg</item>
+        <item>https://ecs7.tokopedia.net/blog-tokopedia-com/uploads/2019/11/Pine-Forest-Camp-Lembang.jpg</item>
+        <item>https://ecs7.tokopedia.net/blog-tokopedia-com/uploads/2019/11/Lereng-Anteng-Panoramic-Coffee.jpeg</item>
+        <item>https://ecs7.tokopedia.net/blog-tokopedia-com/uploads/2019/11/Dusun-Bambu.jpg</item>
+        <item>https://ecs7.tokopedia.net/blog-tokopedia-com/uploads/2019/11/Bumi-Perkemahan-Ranca-Upas.jpg</item>
+        <item>https://ecs7.tokopedia.net/blog-tokopedia-com/uploads/2019/11/Floating-Market-Lembang.jpg</item>
+        <item>https://ecs7.tokopedia.net/blog-tokopedia-com/uploads/2019/11/Saung-Angklung-Udjo.jpg</item>
+        <item>https://ecs7.tokopedia.net/blog-tokopedia-com/uploads/2019/11/Masjid-Raya-Bandung.jpg</item>
+    </string-array>
+
+    <string-array name="data_loc_wisata">
+        <item>-6.832972,107.605731</item>
+        <item>-6.924918,107.636703</item>
+        <item>-7.167040,107.354185</item>
+        <item>-6.815392,107.694033</item>
+        <item>-6.842514,107.622698</item>
+        <item>-6.789466,107.578839</item>
+        <item>-7.136093,107.393849</item>
+        <item>-6.818531,107.617956</item>
+        <item>-6.897989,107.654965</item>
+        <item>-6.921827,107.607024</item>
+    </string-array>
+
+    <string-array name="data_nama_kuliner">
+        <item>Sapulidi Lembang</item>
+        <item>Kampung Daun</item>
+        <item>Raja Rasa</item>
+        <item>Maja House</item>
+        <item>Atmosphere Resort Cafe</item>
+        <item>Bumbu Desa</item>
+        <item>Bale Gazebo</item>
+        <item>Yoghurt Cisangkuy</item>
+        <item>Nasi Kalong</item>
+        <item>The Peak</item>
+        <item>Lisung Cafe</item>
+        <item>Batagor Hanjuang</item>
+        <item>Kupat Tahu Gempol</item>
+        <item>Es Duren Pak Aip</item>
+        <item>Bebek Ali Borromeus</item>
+        <item>Nasi Cikur Waung Inul</item>
+        <item>Rumah Sosis</item>
+        <item>Kopi Ireng</item>
+        <item>Warung Bu Eha</item>
+        <item>Warung Sitinggil</item>
+        <item>Warung Misbar</item>
+        <item>Waroeng Setiaudhi Surabi &amp; Baso Kampung</item>
+        <item>Roemah Nenek Resto Cafe</item>
+        <item>Restoran Kehidupan Tak Pernah Berakhir</item>
+        <item>Miss Bee Providore</item>
+    </string-array>
+
+    <string-array name="data_rating_kuliner">
+        <item>4,2</item>
+        <item>4,4</item>
+        <item>4,4</item>
+        <item>4,2</item>
+        <item>4,4</item>
+        <item>4,1</item>
+        <item>4,0</item>
+        <item>4,2</item>
+        <item>3,9</item>
+        <item>4,1</item>
+        <item>4,4</item>
+        <item>4,5</item>
+        <item>4,4</item>
+        <item>4,4</item>
+        <item>4,6</item>
+        <item>4,0</item>
+        <item>3,9</item>
+        <item>4,3</item>
+        <item>4,3</item>
+        <item>4,5</item>
+        <item>4,2</item>
+        <item>4,4</item>
+        <item>4,2</item>
+        <item>4,5</item>
+        <item>4,5</item>
+    </string-array>
+
+    <string-array name="data_alamat_kuliner">
+        <item>Kompleks Graha Puspa, Jl. Sersan Bajuri, Cihideung, Kec. Parongpong, Kabupaten Bandung Barat, Jawa Barat 40559</item>
+        <item>Perumahan Villa Triniti Blok RR1 Jl. Sersan Bajuri No.88 Km.4,7, Cihideung, Kec. Parongpong, Kabupaten Bandung Barat, Jawa Barat 40154</item>
+        <item>Jl. Setraria No.1, Sukarasa, Kec. Sukasari, Kota Bandung, Jawa Barat 40164</item>
+        <item>Jl. Terusan Sersan Bajuri No.72, Cihideung, Kec. Parongpong, Kabupaten Bandung Barat, Jawa Barat 40559</item>
+        <item>Jl. Lengkong Besar No.97, Paledang, Kec. Lengkong, Kota Bandung, Jawa Barat 40261</item>
+        <item>Jl. Dr. Setiabudi No.41, Pasteur, Kec. Sukajadi, Kota Bandung, Jawa Barat 40171</item>
+        <item>Jl. Surapati No.49, Sadang Serang, Kecamatan Coblong, Kota Bandung, Jawa Barat 40132</item>
+        <item>Jl. Cisangkuy No.66, Citarum, Kec. Bandung Wetan, Kota Bandung, Jawa Barat 40115</item>
+        <item>Jl. L. L. R.E. Martadinata No.102, Cihapit, Kec. Bandung Wetan, Kota Bandung, Jawa Barat 40113</item>
+        <item>Jl. Desa Karawangi No. 388A Komplek Giri Indah, Jl. Gegerkalong Tonggoh Raya, Karyawangi, Kec. Parongpong, Kabupaten Bandung Barat, Jawa Barat 40261</item>
+        <item>Ciburial, Kec. Cimenyan, Bandung, Jawa Barat 40198</item>
+        <item>Jl. Astina No.17, Pamoyanan, Kec. Cicendo, Kota Bandung, Jawa Barat 40173</item>
+        <item>Jl. Gempol Kulon No.53, Citarum, Kec. Bandung Wetan, Kota Bandung, Jawa Barat 40115</item>
+        <item>Jl. Tubagus Ismail Raya No.5G, Sekeloa, Kecamatan Coblong, Kota Bandung, Jawa Barat 40134</item>
+        <item>Blok 60 No.HP, Jl. Teuku Umar No.6/60, Lebakgede, Kecamatan Coblong, Kota Bandung, Jawa Barat 40132</item>
+        <item>Jl. Dago Pakar Barat No.99, Ciburial, Kec. Cimenyan, Kota Bandung, Jawa Barat 40135</item>
+        <item>Jl. L. L. R.E. Martadinata No.47, Citarum, Kec. Bandung Wetan, Kota Bandung, Jawa Barat 40115</item>
+        <item>Jl. Bukit Pakar Timur No.1, Ciburial, Kec. Cimenyan, Bandung, Jawa Barat 40198</item>
+        <item>Pasar Cihapit, Jl. Cihapit No.8A, Cihapit, Bandung Wetan, Bandung City, West Java 40114</item>
+        <item>Jalan Dago Giri No. 90, Mekar Wangi, Mekarwangi, Lembang, Kabupaten Bandung Barat, Jawa Barat 40391</item>
+        <item>Jl. L. L. R.E. Martadinata No.28A, Citarum, Kec. Bandung Wetan, Kota Bandung, Jawa Barat 40115</item>
+        <item>Jl. Dr. Setiabudi No.175, Gegerkalong, Kec. Sukasari, Kota Bandung, Jawa Barat 40153</item>
+        <item>Jl. Tm. Cibeunying Sel. No.47, Cihapit, Kec. Bandung Wetan, Kota Bandung, Jawa Barat 40114</item>
+        <item>Jl. Pajajaran No.63, Pasir Kaliki, Kec. Cicendo, Kota Bandung, Jawa Barat 40171</item>
+        <item>Jl. Rancabentang No.11A, Ciumbuleuit, Kec. Cidadap, Kota Bandung, Jawa Barat 40142</item>
+    </string-array>
+
+    <string-array name="data_photo_kuliner">
+        <item>https://cdn.pergidulu.com/wp-content/uploads/2016/09/Sapu-Lidi-Resort-Lembang-danau.jpg</item>
+        <item>https://tempatasik.com/wp-content/uploads/2017/08/keindahan-kampung-daun.jpg</item>
+        <item>https://tempatwisatadibandung.info/wp-content/uploads/2016/10/Raja-Rasa-Bandung-1.jpg</item>
+        <item>https://infopromodiskon.com/userfiles/uploads/maja-house-bandung-3.jpg</item>
+        <item>https://media-cdn.tripadvisor.com/media/photo-s/02/ce/15/c8/beautiful.jpg</item>
+        <item>https://irs0.4sqi.net/img/general/width500/2269776_RMMur7_k_3ddxJwYOFRIHl3bVeJo5-ftkQGIXeEqNq0.jpg</item>
+        <item>https://fastly.4sqi.net/img/general/600x600/41741140_Fk8cybHANv9iRseLuRrdIP4KXqRd7ymtyQRmW1itEEM.jpg</item>
+        <item>https://tempatwisatadibandung.info/wp-content/uploads/2015/10/Yoghurt-Cisangkuy-620-x-300-1280x720.jpg</item>
+        <item>https://jejakuliner.com/wp-content/uploads/2018/12/nasi-kalong-bandung-960x638.jpg</item>
+        <item>https://www.thepeakresortdining.com/img/portfolio/thumbnails/2.jpg</item>
+        <item>https://media-cdn.tripadvisor.com/media/photo-s/07/5a/90/fe/lisung.jpg</item>
+        <item>https://cdn2.tstatic.net/travel/foto/bank/images/batagor_20180214_121142.jpg</item>
+        <item>https://myeatandtravelstory.files.wordpress.com/2015/12/dscf8480-800x533.jpg</item>
+        <item>https://irs1.4sqi.net/img/general/width640/47024988_sYeS4i0yxSat6Vod6-9TWvVYOnosOvlApWVJWyGWeW0.jpg</item>
+        <item>https://1.bp.blogspot.com/-Wjbb656IK9E/WZETB-K6poI/AAAAAAAABLk/pzcm9FxI8wc0xh1DFSMwEwwK-DThkarZACLcBGAs/s1600/20170813_201651.jpg</item>
+        <item>https://www.gotravelly.com/assets/img/tinymce/367c68179977086f107485f02bc2ca06.jpg</item>
+        <item>https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1557902455/zzcowxiff6rnrgi8knxm.jpg</item>
+        <item>https://assets-pergikuliner.com/uploads/image/picture/216306/picture-1462784778.JPG</item>
+        <item>https://www.anekawisata.com/wp-content/uploads/2015/03/Menu-Warung-Bu-Eha-Bandung.jpg</item>
+        <item>https://bersapedahan.files.wordpress.com/2017/02/slide15.png</item>
+        <item>https://tempatwisatadibandung.info/wp-content/uploads/2016/04/warung-misbar-bandung-1280x720.jpg</item>
+        <item>https://jarijariratih.files.wordpress.com/2016/11/img_20160923_2201541.jpg?w=656</item>
+        <item>https://tempatwisatadibandung.info/wp-content/uploads/2016/06/Rumah-Nenek-Bandung-1.jpg</item>
+        <item>https://indonesiatouristnews.com/wp-content/uploads/2018/03/BDG-KEHIDUPAN-TDK-PERNAH-BERAKHIR-1-tti-1280x640.jpg</item>
+        <item>https://tempatwisatadibandung.info/wp-content/uploads/2016/10/Miss-Bee-Providore-bandung-1280x720.jpg</item>
+        <item></item>
+    </string-array>
+
+    <string-array name="data_desc_kuliner">
+        <item>"Slogan “back to nature” memelopori berdirinya kawasan kuliner Sapulidi Lembang. Dengan mengangkat konsep suasana pedesaan di pegunungan, Sapulidi berhasil menyita perhatian publik. Hampir setiap hari, tempat kuliner Bandung yang satu ini ramai dikunjungi wisatawan domestik dan luar negeri.
+
+Sapulidi Lembang menawarkan gaya baru dalam bersantap. Di sana Anda akan menikmati aneka makanan di saung bambu atau bale. Saung tersebut dibangun di 2 lokasi berbeda. Ada yang didirikan dekat danau, ada juga beberapa yang terletak di area persawahan. Antar saungnya dihubungkan dengan jalan setapak dari bebatuan, dan sepanjang jalan itu terdapat pepohonan dan hamparan rumput hijau sehingga sangat terasa alami.
+
+Untuk memesan makanan, Anda harus memukul kentong di saung bambu. Cukup dua kali pukul, pelayan akan datang membawakan menu. Semua jenis kuliner lezat tersedia di Sapulidi. Ramuan nenek sihir, sapulidi punch, dan sate ayam edan, merupakan beberapa contoh makanan andalan yang dibanderol dengan harga terjangkau di tempat kuliner ini. Selain itu, tersedia juga masakan khas Sunda, Jawa, hingga internasional."</item>
+        <item>"Ingin menikmati dinner romantis? Kampung Daun menghadirkan restoran bertema cafe and culture gallery. Saat malam hari, kawasan wisata kuliner Bandung ini akan diterangi lampu dan obor di tepi jalan setapak. Nuansanya tradisional, hening, nyaman, dan berhawa sejuk dengan tempat makan didesain dalam bentuk saung bambu dengan konsep lesehan.
+
+Di bagian depan Kampung Daun, terdapat beragam jajanan zaman dahulu, antara lain dodol, gulali, dan kembang gula. Selain itu, ada pameran permainan tradisional yang akan mengingatkan Anda pada masa kecil era 90-an. Jika ingin membeli oleh-oleh khas Bandung, Anda bisa mengunjungi galeri suvenir.
+
+Menu yang disuguhkan di tempat wisata kuliner Bandung ini cukup beragam, antara lain masakan khas Indonesia, western, Italia, dan aneka makanan ringan. Penyajian makanan dilakukan dengan dua cara, yaitu modern dan tradisional. Harga kulinernya juga cukup terjangkau, mulai dari Rp8.000 saja. Anda bisa menyambangi tempat kuliner Bandung ini dari pukul 11.00 sampai 23.00 waktu setempat."
+</item>
+        <item>"Anda menyukai masakan Sunda dan Seafood? Bertandang ke Raja Rasa adalah pilihan tepat. Pasalnya, restoran ini menawarkan aneka makanan khas Sunda dan ikan laut yang diolah dengan bumbu khas Bali.
+
+Beberapa menu favorit yang bisa dinikmati antara lain gurami bakar Jimbaran, nasi timbel, nasi ulam, ayam bakar, camilan tahu berbumbu, udang saus keraton, dan kepiting asam pedas. Jika tidak mau ribet, Anda bisa memilih menu paket. Tersedia dua jenis menu paket, yaitu paket 4 orang dan paket personal. Paket ini berisi nasi lengkap dengan lauknya. Selain itu, tersaji minuman ala Bandung, seperti es cincau dan Fresh Raja Rasa.
+
+Restoran yang berlokasi di Jalan Setra Ria ini memiliki desain interior tradisional Sunda dan Jepang serta terdiri dari dua lantai dengan konsep berbeda. Lantai satu dirancang klasik, sedangkan di tingkat kedua menyuguhkan tempat makan ala Jepang. Ruangan tersebut didominasi furnitur kayu dan dekorasi bambu."
+</item>
+        <item>"Berada di lantai atas Hotel Stevie G, Maja House menawarkan pemandangan Kota Bandung yang indah. Anda bisa memilih tempat makan di kursi atau di atas day bed yang tersedia. Day bed merupakan bale beralas kasur busa. Di bale ini terdapat meja untuk menaruh makanan. Tak hanya itu, live music pun akan disuguhkan untuk menemani Anda saat bersantap.
+
+Soal kelezatan kuliner Bandung, Maja House jagonya. Beberapa menu andalan yang rasanya pas di lidah antara lain berbagai jenis pizza, salad, steak, pasta, dan spaghetti. Di samping itu, Anda juga bisa mencicipi masakan nusantara, seperti misalnya sop buntut dan iga bakar. Untuk mengobati dahaga, Anda bisa mencoba Signature Apple Mojito yang menawarkan kesegaran rasa apel dipadukan dengan soda. Aneka kuliner tersebut dibanderol mulai harga Rp32.000 saja.
+
+Untuk menuju kafe mewah ini, Anda harus memasuki kawasan Hotel Stevia G di Jalan Sersan Bajuri, Lembang. Akses ke sana tergolong mudah jika berangkat dari arah Stasiun Bandung. Waktu tempuhnya kurang lebih 30 menit dengan berkendara."
+</item>
+        <item>"Atmosphere Resort Cafe merupakan restoran bergaya Bali dan Sunda yang bertempat di jantung Kota Bandung. Berlokasi hanya 15 menit dari alun-alun, tempat wisata kuliner Bandung ini sering dikunjungi wisatawan dari berbagai kota. Konsep bersantap di saung dan gazebo merupakan fasilitas istimewa yang sulit Anda nikmati di kota besar seperti Jakarta dan Surabaya. Anda tidak perlu khawatir kehabisan tempat makan karena kafe ini mampu menampung lebih dari 600 orang sekaligus.
+
+Harga makanan dan minuman di kafe Atmosphere cukup terjangkau. Untuk makanan utama, harganya mulai dari Rp50.000 saja. Sementara harga makanan penutup mulai dari Rp20.000. Tidak ketinggalan, aneka jus, es krim, dan cokelat disajikan dengan rasa yang khas. Kalau tidak mau ribet, Anda bisa memesan paket kuliner Bandung yang terdiri dari lima jenis masakan. Cukup dengan membayar Rp40.000 sampai Rp70.000, paket tersebut sudah dapat dicicipi.
+
+Menariknya, Atmosphere Cafe juga menyuguhkan televisi raksasa untuk acara menonton bersama. Jika membutuhkan akses internet cepat, Anda bisa memanfaatkan jaringan nirkabel secara gratis."
+</item>
+        <item>"Bermula dari rasa cinta terhadap masakan nusantara, restoran Bumbu Desa dihadirkan untuk mengobati kerinduan pada kampung halaman. Ragam makanan khas Sunda dikemas secara apik dalam konsep kekinian. Berbagai macam kuliner Bandung berbahan ikan dan udang tersaji dengan kelezatan sempurna.
+
+Sayur asam dan ikan gurami cobek merupakan salah satu menu favorit di Bumbu Desa. Ada pula ayam goreng laos, ayam goreng bumbu kecap, dan karedok yang dihidangkan dengan gaya pedesaan. Jika Anda penggemar ikan dan udang, tersedia beberapa menu pilihan, antara lain pepes ikan mas, kere ikan mas, udang peci, dan cumi goreng. Sebagai pelepas dahaga, segelas es cendol dan es kelapa bisa dipesan dengan harga murah meriah.
+
+Restoran Bumbu Desa dapat Anda temukan di Jalan Laswi, Pasir Kaliki, dan Rumah Mode Jalan Setiabudi. Tak hanya makanan dan minuman utama saja yang bisa dinikmati. Di tempat kuliner Bandung ini juga tersaji aneka camilan renyah dan lezat dengan cita rasa tradisional. Kerennya, restoran etnik ini memiliki 30 cabang di seluruh Indonesia, Singapura, dan Malaysia lho."
+</item>
+        <item>"Jika Anda mampir ke Gedung Sate Bandung, sempatkan juga untuk makan di Bale Gazebo. Restoran modern ini menyajikan beragam masakan Sunda, dan meskipun berlokasi di pusat kota Bandung, desain interiornya dibalut dengan gaya tradisional Indonesia. Area makan di sini dibuat lesehan dengan meja berbahan kayu. Makanan pun dihidangkan menggunakan tampah, daun pisang, atau di wadah anyaman bambu sehingga akan sangat terasa sekali suasana tradisionalnya.
+
+Bagi penggemar nasi timbel dan tutug oncom, tempat wisata kuliner Bandung ini menyediakan kemasan dalam daun pisang dengan lauk lengkap berbumbu khas Sunda. Selain itu, terdapat menu nasi liwet kastrol, aneka olahan gurami, dan sayuran yang menyegarkan. Untuk ragam olahan nasi, tersedia tiga pilihan, yaitu komplet, polos, dan spesial.
+
+Anda tidak perlu merogoh kantong terlalu dalam saat bersantap di Bale Gazeebo. Harga makanannya mulai dari harga Rp6.500 sampai dengan Rp40.000 per porsi. Bahkan, menu nasi timbel spesial ditawarkan dengan harga Rp38.500 saja untuk satu porsi."
+</item>
+
+        <item>"Kuliner Bandung tidak hanya urusan makanan. Yoghurt Cisangkuy adalah salah satu kuliner Bandung dalam bentuk minuman unik. Tidak sedikit yang datang ke Bandung untuk memburu minuman legendaris ini. Konon, sejak tahun 1976, Yoghurt Cisangkuy memang sudah berhasil menjadi pelepas dahaga andalan. Rasanya tidak asam, melainkan manis dan segar. Anda bisa menemukan tempat kuliner Bandung ini di Jalan Cisangkuy, Bandung.
+
+Lokasinya strategis, nyaman, dan memiliki fasilitas lengkap. Area parkir di sana juga cukup luas sehingga Anda tidak perlu berdesakan saat memarkirkan kendaraan. Ada sebuah taman membentang di dalam kafe yang dilengkapi dengan berbagai sarana bermain, seperti becak kecil dan kuda. Kursi dan meja kafe juga tertata rapi dengan payung berbentuk joglo.
+
+Hanya dengan mengeluarkan uang Rp20.000, Anda sudah bisa meneguk segelas yoghurt nikmat kebanggaan Bandung. Potongan buah dan sirup di dalam yoghurt akan memberikan sensasi rasa yang berbeda. Anda bisa memilih dari banyak varian rasa yang ada, seperti misalnya anggur, stoberi, apel, dan leci. Ada pula rasa cokelat yang akan membuat lidah tidak bisa berhenti mengecap manisnya"
+</item>
+        <item>"Bersantap sambil menikmati panorama pegunungan dan perbukitan, merupakan salah satu cara bagus untuk melepaskan penat akibat padatnya pekerjaan atau tugas kuliah yang memusingkan. The Peak adalah tempat kuliner Bandung yang memenuhi kriteria tersebut. Dengan sajian masakan nusantara dan mancanegara, restoran di atas bukit ini menciptakan suasana makan yang komplet, apalagi jika berkunjung ke sana saat malam hari, Anda bisa menyaksikan samudera lampu kota Bandung dari ketinggian.
+
+Kurang lebih ada 7 jenis pilihan menu makanan di restoran The Peak. Menu ini terdiri dari Appetizer, Special Dessert, Flambe, Kid’s Menu, Healthy Menu, Traditional, dan Pancake. Khusus menu masakan tradisional, hanya dihidangkan saat akhir pekan. Nah, bagi Anda yang membawa anak-anak, Kid’s Menu adalah pilihan yang paling cocok.
+
+Mau makan malam romantis? Anda bisa memesan tempat di lantai tiga. Sky private dinning room, begitulah orang menyebutnya. Dari sini, pemandangan Kota Bandung dan pegunungan yang melingkarinya terlihat jelas. Namun, untuk menikmati sensasi kuliner di restoran The Peak, Anda harus merogoh kantong cukup dalam lho."
+</item>
+        <item>"Berada di dataran tinggi Dago, Lisung Cafe menawarkan sejumlah fasilitas bersantap yang unik. Letaknya jauh dari keramaian sehingga tercipta suasana hening dan tenang. Desain interior kafe tergolong sederhana dengan 30 meja makan berbahan kayu. Lantai dan dinding restoran ini terbuat dari bahan kayu, berwarna cokelat, dan terdapat ukiran minimalis.
+
+Saat malam hari, pemandangan lautan lampu menjadi objek paling menarik di Kafe Lisung. Beberapa meja sengaja ditempatkan di tepi balkon supaya pengunjung dapat melihat panorama indah. Tepat di lantai paling dasar, terdapat taman dengan hamparan rumput hijau. Biasanya, ada pertunjukan live music di taman tersebut.
+
+Lisung Cafe memiliki enam menu andalan, yaitu Nasi Panggang Lisung, Nasi Panggang Koempeni, Sop Buntut Bakar, Green Day, Stone Roses, dan Lisung Breeze. Keenam menu ini dibanderol dengan harga mulai dari Rp38.000 per porsi. Ada pula hidangan mi tek-tek dan omelet yang terkenal kelezatannya. Selain enam menu utama, rentang harganya sekitar Rp50.000 sampai dengan Rp70.000."
+</item>
+        <item>"Batagor adalah kuliner khas Bandung yang terdiri dari bakso dan tahu goreng. Camilan ini tersebar hampir di seluruh penjuru Kota Bandung. Namun, Batagor Hanjuang adalah yang paling terkenal &amp; sering didatangi pembeli.
+
+Tidak sedikit yang mengatakan bahwa rasa ikan tenggirinya pas di lidah. Adonan bumbu kacangnya juga sangat sempurna, gurih, dan sedikit pedas. Selain itu, batagor ini tidak mengandung banyak minyak.
+Batagor Hanjuang bisa Anda temukan di Jalan Astina. Tepatnya, berlokasi di belakang Istana Plaza. Batagor ini dijual di dalam gerobak kaki lima. Harganya murah dengan kualitas yang tidak murahan. Lokasinya pun asyik untuk bersantai atau kongko bersama teman-teman."
+</item>
+        <item>"Batagor adalah kuliner khas Bandung yang terdiri dari bakso dan tahu goreng. Camilan ini tersebar hampir di seluruh penjuru Kota Bandung. Namun, Batagor Hanjuang adalah yang paling terkenal &amp; sering didatangi pembeli.
+
+Tidak sedikit yang mengatakan bahwa rasa ikan tenggirinya pas di lidah. Adonan bumbu kacangnya juga sangat sempurna, gurih, dan sedikit pedas. Selain itu, batagor ini tidak mengandung banyak minyak.
+
+Batagor Hanjuang bisa Anda temukan di Jalan Astina. Tepatnya, berlokasi di belakang Istana Plaza. Batagor ini dijual di dalam gerobak kaki lima. Harganya murah dengan kualitas yang tidak murahan. Lokasinya pun asyik untuk bersantai atau kongko bersama teman-teman."
+
+        </item>
+        <item>"Pernah mendengar kupat tahu gempol? Kupat tahu gempol adalah salah satu kuliner khas Bandung yang beroperasi sejak tahun 1965. Kudapan ini dijual di kawasan Pasar Gempol Kota Bandung. Biasanya, penjaja kupat menggelar dagangannya setiap pagi hari. Meskipun penyajiannya masih mempertahankan gaya tradisional, kupat tahu gempol menawarkan kelezatan tiada tara.
+
+Kupat tahu gempol berisi potongan tahu kuning yang digoreng setengah matang dengan penambahan kecambah rebus dan irisan ketupat. Kemudian, makanan tersebut disiram saus sambal kacang dan ditaburi kerupuk udang. Rasanya? Jangan ditanya lagi, tentu saja sangat enak, manis, gurih, dan menyatu dengan sempurna di lidah.
+
+Anda hanya perlu membayar Rp12.000 saja untuk menikmati satu porsi kupat tahu gempol. Mau dimakan di tempat atau dibawa pulang, biayanya sama saja. Jika ingin makan di sana, sebaiknya datang lebih awal. Pasalnya, sejak pukul enam pagi, pembeli sudah mulai berdatangan untuk mengantre di kedai kuliner kupat tahu gempol ini."
+</item>
+        <item>"Soal rasa, buah durian memang nomor satu, apalagi jika diolah menjadi minuman segar sejenis es. Pelopor munculnya es durian tidak lain adalah Es Duren Pak Aip. Sejak tahun 1987, Es Duren Pak Aip selalu laris manis. Kuliner Bandung yang satu ini berlokasi di Jalan Ahmad Yani dan Tubagus Ismail.
+
+Es Duren Pak Aip berisi butiran daging buah durian utuh, es serut, dan pemanis tambahan. Beberapa macam pemanis tambahan yang disediakan antara lain susu kental manis, cokelat, dan gula merah. Rasa es durian ala Pak Aip ini berbeda dari yang lainnya karena daging buahnya terasa lebih manis dan lembut saat dilahap.
+
+Untuk menikmati segelas es durian di tempat wisata kuliner di Bandung ini, Anda tidak perlu membayar mahal. Cukup mengeluarkan uang sekitar Rp15.000 hingga Rp18.000 per porsi. Tinggal pilih variasi yang disukai, seperti misalnya ditambahkan es krim, strawberry, dan gula merah."
+</item>
+        <item>"Bebek Ali Borromeus terletak di Jalan Hassanudin, Kota Bandung. Kuliner Bandung ini dijual di kedai kaki lima dengan 75 meja makan. Hampir setiap hari, orang-orang berduyun-duyun menyambangi pusat kudapan lezat ini. Rasa daging bebek yang enak, empuk, dan bebas aroma amis, merupakan ciri khas Bebek Ali Borromeus.
+
+Bebek Ali Borromeus mulai buka pada pukul 17.00 sampai 19.00 WIB. Biasanya, sebelum pukul tujuh, stok masakan ini sudah ludes dibeli pelanggan. Bebek Ali disajikan bersama sepiring nasi, sambal, dan lalapan. Bumbu masakannya sangat pas di lidah sehingga membuat ketagihan.
+
+Untuk merasakan kelezatan Bebek Ali Borromeus, Anda mesti mengeluarkan uang sebesar Rp15.000 per porsi. Memang bisa dibilang mahal bila dibandingkan dengan yang lain, tetapi cita rasanya setara dengan masakan di hotel bintang lima lho. Kalau ingin mencicipi menu lain, Anda bisa memesan ayam goreng, burung dara, atau pecel lele. Tunggu apalagi? Segera datang ke tempat wisata kuliner di Bandung yang satu ini!"
+</item>
+
+        <item>"Nasi cikur adalah masakan khas Sunda yang dibuat dengan cara digoreng, lalu dicampur dengan kencur muda. Rasanya renyah, beraroma harum, dan sedikit getir. Namun jika dikombinasikan dengan telur dadar, daging ayam, serundeng, dan acar, cita rasanya menjadi sangat lezat. Anda pun bisa menambahkan irisan cabai dan keripik tempe agar selera bersantap semakin meningkat.
+
+Warung Inul merupakan salah satu tempat yang menawarkan menu nasi cikur. Warung ini terletak di dataran tinggi Dago. Biasanya, mulai beroperasi pada pukul tujuh pagi hingga jam sembilan malam. Pusat kudapan tersebut tidak pernah sepi. Pasalnya, penyajian nasi cikur di sana tergolong menarik, yaitu dengan dipadukan tumis sayur, ayam goreng, lalapan, dan sambal pedas.
+
+Tempat makan di Warung Inul berkonsep tradisional. Meja dan kursinya terbuat dari kayu, dengan beberapa lokasi bersantap didesain lesehan dalam saung bambu. Tidak jauh dari saung itu, terdapat fasilitas umum, seperti musala dan toilet. Nah, bagi yang menyukai camilan roti, bisa mencicipi kue balok dengan selai stroberi di sini."
+</item>
+        <item>"Slogan eat, swim, play terpampang di pintu masuk Rumah Sosis. Seperti namanya, tempat wisata kuliner di Bandung ini menghidangkan beragam makanan berbahan dasar sosis. Kurang lebih ada 70 jenis menu yang ditawarkan, dengan yang paling populer antara lain sosis keju, sosis barbeque, bockwurst, beef garlic, dan sosis crispy.
+
+Jika ingin membawa pulang atau membeli sosis sebagai oleh-oleh khas Bandung, Rumah Sosis memiliki sebuah menu andalan, yaitu sosis beku yang dijual dengan harga antara Rp50.000 sampai Rp70.000 per bungkus. Selain itu, ada juga bakso, udang, dan mi organik yang sudah dibekukan. Jika ingin merasakan lezatnya es krim, Anda hanya bisa menyantapnya langsung di Rumah Sosis.
+
+Meskipun harganya bisa dibilang termasuk cukup mahal, Rumah Sosis tidak pernah sepi dari pengunjung. Pasalnya, restoran ini tidak hanya berfungsi sebagai tempat kuliner Bandung saja, namun juga menyediakan fasilitas rekreasi yang cocok untuk wisata keluarga di Bandung, yaitu kolam renang dan area bermain. Semua pengunjung bisa menikmati seluruh fasilitasnya dengan membayar tiket masuk seharga Rp3.000 per orang."
+</item>
+        <item>"opi Ireng merupakan tempat wisata kuliner Bandung yang menawarkan racikan kopi ala Karneli Sadikin yang sudah terkenal di antara para pecinta kopi. Minuman kopi buatannya memiliki rasa dan aroma yang khas.
+
+Kopi Ireng menyuguhkan konsep minum kopi di rumah joglo dengan pemandangan kota Bandung. Karena lokasinya yang berada di perbukitan, udara di kawasan ini sangatlah sejuk. Selain sejuk, kesan romantis dan artistik juga akan dirasakan pengunjung saat menikmati secangkir kopi hangat pada malam hari. Untuk memuaskan hasrat para pecinta kopi, Kopi Ireng pun menambah sejumlah menu baru, salah satunya adalah kopi luwak.
+
+Kopi luwak berasal dari biji kopi yang keluar dari kotoran musang. Hal yang membedakan antara kopi luwak dan kopi biasa adalah kulit bijinya. Biji kopi luwak tidak ada kulitnya, sementara biji kopi pada umumnya masih dilapisi kulit berwarna merah. Kopi ini rasanya sangatlah lezat dan nikmat, apalagi jika racikannya ditangani oleh seorang ahli kopi seperti Karneli Sadikin."
+</item>
+        <item>"nilah warung legendaris yang sudah terkenal di Indonesia sejak tahun 1947. Orang menyebutnya, Warung Bu Eha. Tempat makan ini menjadi saksi bisu peristiwa Agresi Militer Belanda yang nyaris melumpuhkan Indonesia. Meskipun sempat gulung tikar pada tahun 1948, kini Warung Bu Eha kembali mengibarkan kiprahnya.
+
+Warung Bu Eha yang identik dengan masakan Sunda diwariskan secara turun-temurun dari generasi sebelumnya. Di tempat kuliner Bandung yang satu ini, Anda dapat menikmati beragam pepesan, soto Bandung, aneka olahan ayam, ikan, urap, dan sayur kepala kakap. Jika ingin menyantap makanan di tempat, Warung Bu Eha menyiapkan 24 meja sederhana.
+
+Makan di Warung Bu Eha tidak akan membuat kantong kosong. Justru, harganya sangat terjangkau. Biaya makan untuk tiga orang, kira-kira akan menghabiskan uang seratus ribu Rupiah. Jadi, kalau hanya satu orang, Anda cukup menyediakan uang 30-40 ribu Rupiah. Murah, kan?"
+</item>
+        <item>"Ingin berwisata kuliner di ketinggian? Anda harus mencoba berkunjung ke Warung Sitinggil. Tempat makan ini berada di Jalan Dago, di atas sebuah bukit. Dengan mengangkat tema etnik, Warung Sitinggil menghadirkan desain interior berbahan kayu dan bambu. Atap rumah makan tersebut berbentuk badak menguap atau badak heuay sehingga tampak unik dan artistik.
+
+Meskipun jauh dari konsep restoran modern, Warung Sitinggil menjadi lokasi kuliner Bandung yang tepat untuk mendapatkan ketenangan sambil menyantap beragam makanan lezat. Jangan kaget jika tidak ada sinyal jaringan nirkabel karena memang belum tersedia di sini. Namun, cobalah sejenak menikmati suara hewan di alam disertai hembusan angin yang lembut. Pasti, Anda akan merasakan sensasi bersantap yang istimewa.
+
+Warung Sitinggil menyuguhkan berbagai macam menu yang terdiri dari masakan lokal dan mancanegara. Nasi timbel, bubur ayam, dan sop buntut merupakan contoh makanan khas nusantara yang bisa Anda cicipi. Selain itu, ada minuman segar berupa yoghurt, aneka es, ragam kopi, dan teh hangat. Semua itu dibanderol dengan harga ramah kantong, mulai dari Rp10.000 saja."
+</item>
+        <item>"Dari luar, bangunan yang berdiri di Jalan RE. Martadinata ini seperti gedung bioskop. Tepat di dinding atas terdapat poster film tempo dulu. Ditambah lagi, pintu masuk yang mirip tempat pembelian tiket di bioskop. Namun, siapa sangka, bagian dalamnya dipenuhi meja makan dan aneka menu masakan. Tempat ini tidak lain adalah Warung Misbar.
+
+Anda benar jika menduga di warung ini terdapat layar untuk menayangkan film. Biasanya, pengunjung disuguhi film-film era 80-an, seperti Warkop DKI dan sinema musikal Rhoma Irama. Sambil menonton tayangan layar tancap, Anda bisa memesan sejumlah makanan dan minuman.
+
+Semur telur, terong Medan balado, dan semur jengkol merupakan beberapa contoh menu andalan Warung Misbar. Harganya murah meriah, hanya sekitar Rp5.000 hingga Rp9.000 per porsi. Makanan paling mahal di warung ini ditawarkan dengan harga 30 ribuan saja. Itulah sebabnya, Warung Misbar selalu ramai didatangi pembeli."
+</item>
+        <item>"Berlokasi di Jalan Setiabudhi, Surabi Waroeng Setiabudhi menawarkan kuliner Bandung yang murah dan enak. Tempat makannya sangat nyaman dengan deretan bangku berbahan kayu jati. Desain interiornya bergaya etnik dengan dibalut sentuhan modern sehingga ruangannya tampak lega dan luas.
+
+Kafe Surabi terdiri dari dua bagian utama, yaitu lantai atas dan lantai bawah. Anda bisa menikmati alunan musik live jika bersantap di lantai bawah. Sementara, di lantai atas tersedia tempat ibadah untuk melengkapi kenyamanan pengunjung Surabi Waroeng. Biasanya, tempat wisata kuliner di Bandung yang satu ini akan mulai ramai ketika memasuki pukul 14.00 WIB. Saat itu, pengunjung sudah mulai berbondong-bondong membeli surabi.
+
+Menu surabi merupakan sajian khas tempat kuliner Bandung ini. Bahan dasar surabi berasal dari tepung beras dan disajikan bersama lumuran atau topping fla durian, jus mangga, atau campuran telur. Banyak pengunjung yang ketagihan menyantap makanan ini karena rasanya gurih, manis, dan sedikit asin. Di tempat makan ini ada kurang lebih 52 jenis surabi yang bisa dinikmati, lumayan banyak ya?"
+</item>
+        <item>"Rumah makan bergaya klasik ini terletak di Jalan Taman Cibeunying Selatan. Ketika sampai di depan pintu, Anda akan disambut foto seorang wanita muda ditambah dengan dekorasi benda-benda kuno yang antik.
+
+Di Roemah Nenek Resto Cafe, Anda bisa menikmati masakan khas Italia, China, dan berbagai jenis masakan Asia lainnya. Ada juga menu western dan aneka kopi dengan olahan istimewa. Harga makanan di tempat kuliner Bandung ini cukup terjangkau, Anda sudah dapat mencicipi satu porsi kuliner ala Roemah Nenek dengan harga mulai dari Rp17.000 saja.
+
+24. Restoran Kehidupan Tak Pernah Bera"
+</item>
+        <item>"Nama pusat kuliner Bandung yang satu ini memang sangat unik dan mudah diingat. Restoran Kehidupan Tak Pernah Berakhir, begitulah orang mengenalnya. Nama tersebut bermula dari keyakinan pemiliknya yang meyakini bahwa kehidupan akan terus berlanjut meskipun manusia telah berpulang ke sisi Tuhan Yang Mahakuasa. Jika penasaran dengan tampilannya, Anda bisa langsung bertandang ke Jalan Pajajaran.
+
+Restoran Kehidupan Tak Pernah Berakhir menghidangkan beragam masakan berbahan sayuran dan hanya sedikit makanan yang berbahan daging, itu pun berasal dari daging ikan atau ayam saja. Karena banyaknya masakan berbahan sayuran, restoran ini sangatlah direkomendasikan untuk vegetarian. Kurang lebih ada 18 macam sayuran yang disajikan secara berkala di restoran ini.
+
+Harga kuliner di restoran tersebut cukup murah meriah, mulai dari Rp7.000 per porsi saja. Kalau ingin lebih hemat, Anda bisa memilih paket makanan atau menu ala carte. Contoh menunya antara lain nasi timbel, spaghetti, mi goreng, dan masih banyak lagi. Sebagai pengobat dahaga, cobalah mencicipi manisnya jus atau susu kedelai kental."
+</item>
+        <item>"Anda mencari restoran yang ramah keluarga? Miss Bee Providore adalah pilihan tepat untuk bersantai sambil bersantap bersama keluarga di Bandung. Dengan fasilitas taman dan area bermain, tempat kuliner Bandung ini menghadirkan tempat makan modern yang ditata secara apik sehingga pengunjung akan merasa nyaman saat menikmati aneka makanan yang disajikan.
+
+Aneka makanan yang disediakan antara lain Egg Benedicts, Salmon Spinach Lasagna, dan Batella Stuffed French Toast. Kelezatan pizza dan pasta yang ditawarkan juga tiada duanya. Isinya padat dengan sensasi rasa tak terlupakan.
+
+Jika menginginkan ruangan pribadi, kafe ini juga menyediakan private room. Anda bisa memesannya untuk daya tampung 10-15 orang. Namun, untuk dapat memesan ruangan khusus, Anda harus memesan makanan dan minuman senilai 2 jutaan Rupiah. Tertarik?"
+</item>
+    </string-array>
+
+    <string-array name="data_loc_kuliner">
+        <item>-6.812494, 107.598275</item>
+        <item>-6.816668, 107.589108</item>
+        <item>-6.880072, 107.583928</item>
+        <item>-6.831737, 107.595014</item>
+        <item>-6.926710, 107.613391</item>
+        <item>-6.882554, 107.599877</item>
+        <item>-6.899024, 107.619463</item>
+        <item>-6.901875, 107.621408</item>
+        <item>-6.909238, 107.624900</item>
+        <item>-6.818072, 107.581476</item>
+        <item>-6.858798, 107.637467</item>
+        <item>-6.905248, 107.596095</item>
+        <item>-6.903065, 107.615470</item>
+        <item>-6.883878, 107.615216</item>
+        <item>-6.891939, 107.616873</item>
+        <item>-6.858291, 107.631063</item>
+        <item>-6.906350, 107.614402</item>
+        <item>-6.858046, 107.638314</item>
+        <item>-6.908238, 107.621609</item>
+        <item>-6.848019, 107.627789</item>
+        <item>-6.906521, 107.615852</item>
+        <item>-6.867759, 107.593623</item>
+        <item>-6.904513, 107.623536</item>
+        <item>-6.906934, 107.598333</item>
+        <item>-6.868308, 107.609091</item>
+
+    </string-array>
+
+    <string-array name="data_nama_hotel">
+        <item>The Trans Luxury Hotel</item>
+        <item>Crowne Plaza</item>
+        <item>Padma Hotel</item>
+        <item>Mason Pine</item>
+        <item>GH Universal Hotel</item>
+        <item>Hilton Hotel Bandung</item>
+        <item>Sheraton Bandung Hotel</item>
+        <item>Papandayan Hotel</item>
+        <item>Savoy Homan</item>
+        <item>Grand Aquila</item>
+    </string-array>
+
+    <string-array name="data_rating_hotel">
+        <item>4,7</item>
+        <item>4,5</item>
+        <item>4,6</item>
+        <item>4,5</item>
+        <item>4,6</item>
+        <item>4,6</item>
+        <item>4,6</item>
+        <item>4,6</item>
+        <item>4,5</item>
+        <item>4,3</item>
+    </string-array>
+
+    <string-array name="data_desc_hotel">
+        <item>Hotel bintang 6 yang terletak di Jalan Gatot Soebroto Bandung ini cocok untuk menjadi salah satu hotel tujuan staycation kamu. Di hotel ini banyak kegiatan menarik yang bisa kamu lakukan bersama anak-anak seperti adanya ruangan Kids Club yang besar untuk menikmati permainan dan membuat prakarya.
+
+Selain itu, pada hari Minggu juga ada pertunjukan boneka tangan, puzzle race, dan aktivitas lainnya. Hal menarik lainnya dari hotel ini adalah adanya pantai buatan dan kolam renang yang bisa dipakai untuk membuat istana pasir dan belajar berenang.
+
+Hotel ini juga terletak berdampingan dengan Trans Studio Bandung. Tarif menginap di hotel ini mulai dari Rp1 jutaan permalam yang relatif sesuai dengan fasilitas yang ditawarkan.</item>
+
+        <item>Hotel Crowne Plaza juga bisa menjadi pilihan kamu saat berlibur bersama keluarga ke Bandung. Hotel ini berada di kawasan Braga yang merupakan salah satu spot wisata menarik di Bandung dengan banyaknya kafe dan bangunan-bangunan bersejarah di sana.
+
+Hotel bintang 5 ini memiliki lokasi sangat strategis dengan jarak tempuh hanya 15 menit dari stasiun kereta api Bandung, dan sangat dekat dengan gerbang tol Pasteur.
+
+Selain itu, perpaduan bangunan klasik dan modern yang ada di Braga menjadi daya tarik tersendiri untuk kamu nikmati dari hotel ini. Yang terpenting adalah hotel ini juga ramah anak karena memiliki arena bermain yang luas dengan desain lucu yang pasti disukai si kecil.
+
+Kamar-kamar yang ada di hotel ini juga nyaman dan disukai anak-anak sehingga cocok untuk menjadi tempat staycation kamu bersama keluarga. Tarif menginap di hotel ini dimulai dari Rp1 jutaan per malam tergantung dari tipe kamar yang kamu pilih.</item>
+
+        <item>Padma Hotel adalah hotel bintang lima dengan panorama perbukitan yang bisa memanjakan mata kamu saat berlibur di sana. Hotel ini terletak di Jalan Rancabentang Ciumbuleuit Bandung yang memiliki fasilitas sangat lengkap, termasuk untuk kebutuhan anak-anak seperti kolam renang khusus anak, dan juga ada playground yang luas serta ada rumah pohon yang bisa dijadikan tempat bermain anak-anak.
+
+Selain itu, fasilitas seru lainnya untuk anak yang ada di hotel ini adalah adanya mini zoo dengan berbagai hewan jinak yang bisa diajak bermain bersama. Anak-anak juga bisa memberi makan kelinci serta memancing. Kemudian, anak-anak juga bisa menguji adrenalin dan melatih keberanian dengan bermain flying fox yang juga disediakan di hotel ini.
+
+Seperti layaknya hotel bintang 5 lainnya di Bandung, tarif menginap di hotel ini mulai dari kisaran harga Rp1 jutaan per malam.</item>
+
+        <item>Hotel ini terletak di kawasan Kota Baru Parahyangan yang bisa jadi pilihan kamu untuk berlibur bersama keluarga, karena hotel ini dikelilingi oleh alam pegunungan dan deretan pohon pinus serta danau Saguling sehingga akan memberikan pengalaman menginap yang mengesankan.
+
+Untuk anak-anak, hotel ini menyediakan dua spot menarik yakni Chip’s Water World dan Chup’s Play Club. Kolam renang untuk anak di hotel ini juga dilengkapi permainan seperti perosotan dan juga ada arena permainan indoor dengan wahana mandi bola.
+
+Anak-anak juga bisa melukis di painting corner yang ada serta bisa bersepeda mengelilingi hotel. Selain itu, di hotel ini juga ada ruang karaoke untuk keluarga. Untuk menginap di hotel ini, tarif yang ditawarkan relatif terjangkau yakni mulai dari Rp850 ribuan per malam.</item>
+        <item>Hotel ini menjadi hotel rekomendasi terbaik untuk Anda yang menginginkan sensasi liburan eksklusif bernuansa Eropa Timur. Beralamat di Jalan Setiabudi 376, Bandung, hotel ini menjadi salah satu hotel favorit bagi para turis yang mengunjungi Bandung. Dengan desain bernuansa Renaissance-Italia, tempat ini juga menjadi penginapan favorit untuk wisata bersama keluarga.
+
+Dengan menawarkan lebih dari 100 kamar hotel dengan berbagai tipe yang berbeda, hotel ini juga menawarkan fasilitas eksklusif untuk memanjakan para tamu.Tempat ini juga bisa menjadi tempat penginapan ketika liburan sekaligus bekerja karena ruang rapat tersedia. Fasilitas lainnya termasuk kolam renang untuk dewasa dan anak-anak, taman, dan klub anak. Anda juga bisa menikmati Lembang dari hotel ini.Ketika Anda menginap di hotel ini, Anda bisa mencoba untuk menikmati objek wisata terdekat seperti Pasar Terapung Lembang, Taman Hutan Raya Ir. Juanda serta Gedung Sate. Setelah puas mengunjungi tempat wisata, Anda bisa mencoba mengunjungi mall terdekat yaitu Cihampelas Walk maupun disekitar Paris Van Java.
+
+</item>
+        <item>Hotel ini merupakan hotel bintang 5 yang berjarak hanya 2 km dari Bandara Internasional Bandung. Lokasinya berada di Jalan HOS Tjokroaminoto No 41-43, Bandung. Hotel mewah ini terkenal dengan sebutan “city resort”.Lokasi hotel sangatlah strategis karena terletak di sekitar pusat perbelanjaan. Beberapa mall terdekat diantaranya adalah Parahyangan Plaza, King’s Shopping Center, Braga City Walk dan Istana Plaza. Objek wisata terdekat yang bisa dikunjungi adalah Gedung Merdeka, Amped Trampolin Park, Wisata Air Panas Ciater dan Perkebunan Teh PTPN 8.</item>
+        <item>Sheraton Hotel tersebar di berbagai kota besar di Indonesia, salah satunya di Bandung. Untuk di Bandung, Anda bisa mengunjungi hotel ini yang beralamatkan di Jalan Ir.H. Juanda No 39, Dago, Bandung. Hotel ini merupakan hotel berbintang 5 yang cocok untuk tempat menginap Anda bersama keluarga.Salah satu fasilitas yang bisa Anda dapatkan di hotel ini adalah fasilitas untuk olahraga dan rekreasi. Ada lapangan golf untuk dewasa dan anak-anak, kolam renang indoor dan outdoor serta beberapa fasilitas lainnya.
+
+Jika Anda ingin mengunjungi tempat wisata, ada beberapa tempat wisata yang dekat dengan hotel ini. Beberapa diantaranya adalah Dago Pakar, Dago Indah Golf, Curug Dago dan Kebun Binatang Bandung. Untuk memenuhi keinginan belanja, Anda bisa menjangkau Cihampelas Walk yang merupakan mall terbuka.</item>
+        <item>Salah hotel murah namun mewah dan berbintang 5 adalah Papandayan Hotel. Hotel ini berlokasi di Jalan Gatoto Subroto No 83, Kota Bandung. Fasilitas yang ditawarkan merupakan fasilitas yang yang ditujukan untuk membuat para tamu nyaman.Ada lebih dari 170 kamar dengan berbagai tipe yang bisa Anda pilih. Anda juga bisa menggunakan fasilitas gratis seperti kolam renang, pusat kebugaran, sauna bahkan layanan pijat.Lokasi hotel merupakan lokasi yang strategis karena terletak di sekitar pusat perbelanjaan.
+
+Beberapa mall terdekat adalah Bandung Supermall dan Bandung Computer Center. Selain itu, lokasi hotel juga hanya 15 menit dari bandara. Untuk Anda yang mempunyai kesibukan selepas liburan di Bandung, hotel ini sangat cocok untuk akomodasi Anda.</item>
+        <item>
+            Hotel berikut ini merupakan hotel bersejarah yang masuk dalam daftar hotel terbaik di Bandung. Dikatakan bersejarah karena hotel ini merupakan tempat dimana tamu-tamu VVIP Konferensi Asia Afrika tahun 1955 menginap. Bahkan, hotel ini menjadi bagian dari “historical walk” konferensi tersebut. Hotel ini merupakan hotel berbintang 4 yang berlokasi di Jalan Asia-Afrika No 112, Bandung.
+
+Saat ini, hotel tersebut dikenal dengan nama Savoy Homann Bidakara Hotel.Hotel ini merupakan hotel tua yang mewah karena dibangun pada tahun sebelum 1888 dan memiliki arsitektur modern. Bahkan pada tahun 1900-an, hotel ini menjadi hotel yang terbesar di Asia Tenggara yang juga sebagai tempat di mana konferensi internasional bersejarah diadakan. Dengan renovasi yang terus dilakukan, hotel ini kini menjadi hotel favorit para wisatawan yang berkunjung ke Bandung.Objek wisata yang terdekat untuk bisa Anda kunjungi ketika menginap di sini adalah i=objek wisata yang berhubungan dengan Konferensi Asia Afrika seperti Gedung Merdeka, Monumen Solidaritas Asia-Afrika, Museum KAA serta Masjid Raya Bandung.
+        </item>
+        <item>Hotel yang memiliki perpaduan arsitektur klasik dan modern ini berada di Jalan Dr. Djundjunan 116, Pasteur, Bandung. Hotel ini dikenal sebagai hotel yang memiliki kamar lebih luas dibanding ukuran rata-rata hotel di Bandung. Dengan menawarkan lebih dari 200 kamar dengan berbagai tipe, hotel ini bisa menjadi hotel terbaik untuk akomodasi liburan Anda.
+
+Di sini, Anda juga bisa menikmati kuliner baik lokal maupun internasional seperti menu Eropa, Meksiko dan negara-negara Asia lainnya.Hotel yang menjadi salah satu daftar hotel keluarga terbaik di Bandung ini juga menawarkan kemudahan akses ke beberapa objek wisata. Objek wisata disekitar hotel adalah Lactasari Diary Farm, Perkebunan The PTPN 8, Wisata Air Panas Ciater, serta Museum Geologi. Ada juga pusat perbelanjaan yang bisa Anda akses dengan mudahnya. Salah satunya adalah BTC Fashion Mall.</item>
+
+    </string-array>
+
+    <string-array name="data_photo_hotel">
+        <item>https://q-cf.bstatic.com/images/hotel/max1024x768/109/109777652.jpg</item>
+        <item>https://r-cf.bstatic.com/images/hotel/max1280x900/161/161967313.jpg</item>
+        <item>https://q-cf.bstatic.com/images/hotel/max1024x768/267/26773362.jpg</item>
+        <item>https://r-cf.bstatic.com/images/hotel/max1024x768/209/209999208.jpg</item>
+        <item>https://www.indodestinasi.com/wp-content/uploads/2017/09/hotel-terbaik-bandung-gh-universal.jpg</item>
+        <item>https://www.indodestinasi.com/wp-content/uploads/2017/09/hilton-bandung-hotel.jpg</item>
+        <item>https://www.indodestinasi.com/wp-content/uploads/2017/09/Sheraton-Bandung-Hotel.jpg</item>
+        <item>https://www.indodestinasi.com/wp-content/uploads/2017/09/hotel-terbaik-papandayang-bandung.jpg</item>
+        <item>https://www.indodestinasi.com/wp-content/uploads/2017/09/hotel-terbaik-savoy-homann-768x575.jpg</item>
+        <item>https://www.indodestinasi.com/wp-content/uploads/2017/09/Grand-aquila-hotel-bandung.jpg</item>
+    </string-array>
+
+    <string-array name="data_loc_hotel">
+        <item>-6.927581, 107.636353</item>
+        <item>-6.917156, 107.612016</item>
+        <item>-6.864568, 107.609118</item>
+        <item>-6.863970, 107.479952</item>
+        <item>-6.850616, 107.598109</item>
+        <item>-6.912817, 107.597558</item>
+        <item>-6.874522, 107.620022</item>
+        <item>-6.922972, 107.623812</item>
+        <item>-6.921752, 107.610490</item>
+        <item>-6.894976, 107.589636</item>
+
+    </string-array>
+
+    <string-array name="data_alamat_hotel">
+        <item>Jl. Gatot Subroto No.289, Cibangkong, Kec. Batununggal, Kota Bandung, Jawa Barat 40273</item>
+        <item>Jl. Lembong No.19, Braga, Kec. Sumur Bandung, Kota Bandung, Jawa Barat 40111</item>
+        <item>Jl. Rancabentang No.56-58, Ciumbuleuit, Kec. Cidadap, Kota Bandung, Jawa Barat 40142</item>
+        <item>Parahyangan, Jl. Raya Parahyangan KM. 1.8 Kota Baru, Cipeundeuy, Padalarang, Kabupaten Bandung Barat, Jawa Barat 40714</item>
+        <item>Jl. Dr. Setiabudi No.376, Ledeng, Kec. Cidadap, Kota Bandung, Jawa Barat 40143</item>
+        <item>Jl. HOS Tjokroaminoto No.41-43, Arjuna, Kec. Cicendo, Kota Bandung, Jawa Barat 40172</item>
+        <item>Jl. Ir. H. Juanda No.390, Dago, Kecamatan Coblong, Kota Bandung, Jawa Barat 40135</item>
+        <item>Jl. Gatot Subroto No.83, Malabar, Kec. Lengkong, Kota Bandung, Jawa Barat 40262</item>
+        <item>Jl. Asia Afrika No.112, Cikawao, Kec. Lengkong, Kota Bandung, Jawa Barat 40261</item>
+        <item>Jl. Dr. Djunjunan No.116, Sukagalih, Kec. Sukajadi, Kota Bandung, Jawa Barat 40173</item>
+    </string-array>
+
+</resources>
